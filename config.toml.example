@@ -1,0 +1,6 @@
+[telegram]
+token    = "YOUR_BOT_TOKEN"
+chat_ids = [123456789]   # run /getid in Telegram to find your chat ID
+
+[sync]
+inbox_dir = "~/Dropbox/Zettelkasten/Inbox"
